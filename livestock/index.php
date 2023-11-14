@@ -19,6 +19,8 @@
  *
  */
 	define('ENVIRONMENT', 'production');
+
+	
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING
